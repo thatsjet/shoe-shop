@@ -1,0 +1,8 @@
+server:
+  port: 3000
+application:
+  domain: shoe-sh.op
+  name: 'Nike Shoe Shop'
+  logo: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/swoosh.png'
+  favicon: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/favicon_v2.ico'
+  showVersionNumber: false
