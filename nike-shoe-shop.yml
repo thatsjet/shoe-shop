@@ -3,7 +3,7 @@ server:
 application:
   domain: shoe-sh.op
   name: 'Nike Shoe Shop'
-  logo: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/swoosh.png'
+  logo: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/swoosh-white.png'
   favicon: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/favicon.ico'
   showVersionNumber: false
   showChallengeSolvedNotifications: false
