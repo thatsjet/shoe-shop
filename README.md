@@ -2,13 +2,6 @@
 A collection of configs and assets to turn OWASP juice-shop into Nike shoe-shop.
 
 **TODO:**
-- Logo
-- name
-- favicon
-- showChallengeSolveNotification:false
-- domain for e-mails
-- theme (try them out and pick one that looks like Nike.)
-- gitHubRibbon=none
 - cookieConsent:
   - backgroundColor
   - buttonColor
@@ -42,7 +35,7 @@ application:
   showChallengeSolvedNotifications: true
   showCtfFlagsInNotifications: false
   showChallengeHints: true
-  showVersionNumber: true
+  showVersionNumber: false
   theme: slate
   gitHubRibbon: orange
   twitterUrl: 'https://twitter.com/owasp_juiceshop'

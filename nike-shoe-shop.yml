@@ -4,5 +4,50 @@ application:
   domain: shoe-sh.op
   name: 'Nike Shoe Shop'
   logo: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/swoosh.png'
-  favicon: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/favicon_v2.ico'
+  favicon: 'https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/favicon.ico'
   showVersionNumber: false
+  showChallengeSolvedNotifications: false
+  showCtfFlagsInNotifications: false
+  showChallengeHints: false
+  theme: cosmo
+  gitHubRibbon: none
+
+  cookieConsent:
+    backgroundColor: '#000000'
+    textColor: '#ffffff'
+    buttonColor: '#ffffff'
+    buttonTextColor: '#000000'
+    message: 'This website uses cookies to offer you the best experience.'
+    dismissText: 'Okay'
+    linkText: 'No thanks'
+    linkUrl: 'https://www.youtube.com/watch?v=9PnbKL3wuH4'
+products:
+  -
+    name: "Air Force 1 07 Premier"
+    price: 99.00
+    description: 'The all-time classic.'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-07-premier.png"
+    reviews:
+      - { text: "An absolute classic!", author: admin }
+  -
+    name: "SF Air Force 1 High Top"
+    price: 129.00
+    description: 'The all-time classic.'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/sf-air-force-1-hi.png"
+    useForChristmasSpecialChallenge: true
+  -
+    name: "Air Force 1 07 Premium Just Do It"
+    price: 199.00
+    description: 'The all-time classic.'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-07-premium-jdi.png"
+    urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/O-Saft'
+    reviews:
+      - { text: "An absolute classic!", author: admin }
+  -
+    name: "Air Max 95 OG"
+    price: 199.00
+    description: 'The all-time classic.'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-max-95-og.png"
+    fileForRetrieveBlueprintChallenge: JuiceShop.stl
+
+# ~~~~~ ... ~~~~~~
