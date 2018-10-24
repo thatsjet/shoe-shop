@@ -21,33 +21,179 @@ application:
     dismissText: 'Okay'
     linkText: 'No thanks'
     linkUrl: 'https://www.youtube.com/watch?v=9PnbKL3wuH4'
+
+  securityTxt:
+    contact: 'mailto:donotreply@nike-shoe.shop'
+    encryption: 'https://pgp.mit.edu/pks/lookup?op=get&search=0x062A85A8CBFBDCDA'
+    acknowledgements: '/#/score-board'
+
 products:
   -
-    name: "Air Force 1 07 Premier"
-    price: 99.00
+    name: "Nike Air Force 1 '07 LV8 Sport NBA"
+    price: "100"
     description: 'The all-time classic.'
-    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-07-premier.png"
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-07-lv8-sport-nba.png"
     reviews:
       - { text: "An absolute classic!", author: admin }
   -
-    name: "SF Air Force 1 High Top"
-    price: 129.00
+    name: "Nike Air Force 1 '07 Premier"
+    price: "130"
     description: 'The all-time classic.'
-    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/sf-air-force-1-hi.png"
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-07-premier.png"
     useForChristmasSpecialChallenge: true
   -
-    name: "Air Force 1 07 Premium Just Do It"
-    price: 199.00
+    name: "Nike Air Force 1 '07 Premium JDI"
+    price: "130"
     description: 'The all-time classic.'
     image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-07-premium-jdi.png"
     urlForProductTamperingChallenge: 'https://www.owasp.org/index.php/O-Saft'
     reviews:
       - { text: "An absolute classic!", author: admin }
   -
-    name: "Air Max 95 OG"
-    price: 199.00
+    name: "Nike Air Force 1 High '07 Premium"
+    price: "140"
     description: 'The all-time classic.'
     image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-max-95-og.png"
     fileForRetrieveBlueprintChallenge: JuiceShop.stl
 
 # ~~~~~ ... ~~~~~~
+  -
+    name: "Nike Air Force 1 '07 LV8 Utility"
+    price: "100"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-lv8-utility.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Force 1 NBA High (New York Knicks)"
+    price: "110"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-force-1-nba-high-knicks.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Huarache Drift SE"
+    price: "130"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-huarache-drift-se.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Huarache Gripp"
+    price: "140"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-huarache-gripp.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Huarache Premium"
+    price: "130"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-huarache-premium.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Max 1 SE"
+    price: "130"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-max-1-se.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Max 95 OG"
+    price: "160"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-max-95-og.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Max 97/BW"
+    price: "170"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-max-97-bw.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Max 270"
+    price: "150"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-max-270.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Max 270 Bowfin"
+    price: "160"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-max-270-bowfin.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air Span II Premium"
+    price: "115"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-span-ii-premium.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Air VaporMax Run Utility"
+    price: "190"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/air-vapormax-run-utility.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Blazer Low"
+    price: "75"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/blazer-low.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Converse Chuck 70 Low Top"
+    price: "80"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/converse-chuck-70-low.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Converse Chuck Taylor All Star Low Top"
+    price: "50"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/converse-chuck-taylor-all-star-low.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike Lunar Force 1 '18"
+    price: "170"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/lunar-force-1-18.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike SB Portmore II Solarsoft Mid Bota"
+    price: "85"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/sb-portmore-ii-solarsoft-mid-bota.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike SB Stefan Janoski Max Mid Premium"
+    price: "135"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/sb-stefan-janoski-max-mid-premium.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike SF Air Force 1 Hi"
+    price: "180"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/sf-air-force-1-hi.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
+  -
+    name: "Nike SF Air Force 1 High"
+    price: "200"
+    description: 'xxxxxxxxxxxxxx'
+    image: "https://raw.githubusercontent.com/thatsjet/shoe-shop/master/images/sf-air-force-1-high.png"
+    reviews:
+      - { text: "xxxxxxxxxx", author: admin }
